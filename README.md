@@ -1,1 +1,2 @@
-# lead_scoring
+Lead Scoring Case Study
+The problem statement involves an education company, X Education, that aims to improve their lead conversion rate by identifying the most potential leads, also known as 'hot leads'. The company wants to develop a lead scoring model that can accurately predict the conversion chance of each lead based on historical data and various features of the leads, such as their source and profile. The end goal is to provide the sales team with a prioritized list of leads that are most likely to convert into paying customers, enabling them to focus their efforts on these leads and improve the lead conversion rate.
